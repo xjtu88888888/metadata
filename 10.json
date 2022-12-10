@@ -1,0 +1,35 @@
+{
+  "name": "DouShare #10",
+  "description": "A collection of 2,000 cute Oh Ottie! who left their dens to explore the human world.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRX1o5gia48wgz2rhMLH3NQyzw2exAmZfYEtkXxAd7UvW/10.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Boxing"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hyped"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "None"
+    }
+  ]
+}
